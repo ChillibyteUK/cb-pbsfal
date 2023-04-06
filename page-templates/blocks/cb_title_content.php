@@ -23,6 +23,7 @@
                 ?>
             </div>
             <div class="col-md-8">
+                HELLO FROM GIT
                 <?=get_field('content')?>
             </div>
         </div>
